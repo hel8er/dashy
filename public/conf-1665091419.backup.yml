@@ -7,49 +7,16 @@ pageInfo:
     - title: Documentation
       path: https://dashy.to/docs
 appConfig:
-  theme: dracula
+  theme: lissy
   layout: auto
-  iconSize: large
-  language: en
+  iconSize: medium
+  language: ru
   auth:
     enableGuestAccess: true
     users:
-      - user: hel8er
-        hash: 9b4ec0b5e72e27929873cd615072baecefdb8100d6a1b7fa1df3eb82be951cbb
-        type: admin
-    enableKeycloak: false
-  startingView: default
-  defaultOpeningMethod: newtab
-  statusCheck: false
-  statusCheckInterval: 0
-  faviconApi: allesedv
-  routingMode: history
-  enableMultiTasking: false
-  widgetsAlwaysUseProxy: false
-  webSearch:
-    disableWebSearch: false
-    searchEngine: duckduckgo
-    openingMethod: newtab
-    searchBangs: {}
-  enableFontAwesome: true
-  enableMaterialDesignIcons: true
-  hideComponents:
-    hideHeading: false
-    hideNav: false
-    hideSearch: false
-    hideSettings: false
-    hideFooter: false
-  showSplashScreen: true
-  preventWriteToDisk: false
-  preventLocalSave: false
-  disableConfiguration: false
-  disableConfigurationForNonAdmin: false
-  allowConfigEdit: true
-  enableServiceWorker: false
-  disableContextMenu: false
-  disableUpdateChecks: false
-  disableSmartSort: false
-  enableErrorReporting: false
+    - user: hel8er
+      hash: 9b4ec0b5e72e27929873cd615072baecefdb8100d6a1b7fa1df3eb82be951cbb
+      type: admin
 sections:
   - name: Getting Started
     icon: fas fa-rocket
@@ -92,7 +59,7 @@ sections:
       rows: 1
       cols: 1
       collapsed: false
-      hideForGuests: true
+      hideForGuests: false
     items:
       - title: Portainer MSK
         icon: hl-portainer
