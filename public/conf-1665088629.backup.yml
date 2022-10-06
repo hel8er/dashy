@@ -7,7 +7,7 @@ pageInfo:
     - title: Documentation
       path: https://dashy.to/docs
 appConfig:
-  theme: lissy
+  theme: colorful
   layout: auto
   iconSize: medium
   language: ru
@@ -58,12 +58,12 @@ sections:
       - title: Portainer MSK
         icon: hl-portainer
         url: https://d.msk.iothinks.ru/
-        target: workspace
+        target: newtab
         statusCheck: true
         id: 0_1150_portainermsk
       - title: NPM msk
         icon: hl-nginxproxymanager
         url: https://px.msk.iothinks.ru/
-        target: workspace
+        target: newtab
         statusCheck: true
         id: 1_1150_npmmsk

@@ -64,6 +64,6 @@ sections:
       - title: NPM msk
         icon: hl-nginxproxymanager
         url: https://px.msk.iothinks.ru/
-        target: workspace
+        target: newtab
         statusCheck: true
         id: 1_1150_npmmsk

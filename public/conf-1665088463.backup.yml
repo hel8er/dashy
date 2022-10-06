@@ -7,7 +7,7 @@ pageInfo:
     - title: Documentation
       path: https://dashy.to/docs
 appConfig:
-  theme: lissy
+  theme: colorful
   layout: auto
   iconSize: medium
   language: ru
@@ -47,7 +47,7 @@ sections:
         url: https://github.com/Lissy93/dashy/blob/master/.github/SUPPORT.md
         icon: far fa-hands-helping
         id: 5_1481_support
-  - name: iothinks.ru
+  - name: iii
     displayData:
       sortBy: default
       rows: 1
@@ -58,12 +58,12 @@ sections:
       - title: Portainer MSK
         icon: hl-portainer
         url: https://d.msk.iothinks.ru/
-        target: workspace
+        target: newtab
         statusCheck: true
-        id: 0_1150_portainermsk
+        id: 0_315_portainermsk
       - title: NPM msk
         icon: hl-nginxproxymanager
         url: https://px.msk.iothinks.ru/
-        target: workspace
+        target: newtab
         statusCheck: true
-        id: 1_1150_npmmsk
+        id: 1_315_npmmsk
