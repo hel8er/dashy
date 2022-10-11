@@ -96,7 +96,7 @@ sections:
     items:
       - title: Portainer MSK
         icon: hl-portainer
-        url: https://ptmsk.iothinks.ru/
+        url: https://pt.msk.iothinks.ru/
         target: workspace
         statusCheck: true
         id: 0_1150_portainermsk
