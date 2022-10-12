@@ -106,3 +106,21 @@ sections:
         target: workspace
         statusCheck: true
         id: 1_1150_npmmsk
+  - name: Docs
+    displayData:
+      sortBy: default
+      rows: 1
+      cols: 1
+      collapsed: false
+      hideForGuests: false
+    items:
+      - title: Portainer Install
+        icon: hl-portainer
+        url: https://docs.portainer.io/start/install
+        target: workspace
+        id: 0_393_portainerinstall
+      - title: NgPM
+        icon: hl-nginxproxymanager
+        url: https://nginxproxymanager.com/guide/#project-goal
+        target: workspace
+        id: 1_393_ngpm
