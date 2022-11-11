@@ -7,8 +7,8 @@ pageInfo:
     - title: Documentation
       path: https://dashy.to/docs
 appConfig:
-  theme: dracula
-  layout: auto
+  theme: one-dark
+  layout: vertical
   iconSize: small
   language: en
   auth:
@@ -82,7 +82,7 @@ sections:
       rows: 1
       cols: 1
       collapsed: false
-      hideForGuests: false
+      hideForGuests: true
     items:
       - title: TimeWeb VDS
         icon: https://vds.timeweb.ru/assets/40bf245d/favicons/favicon-152.png
@@ -96,3 +96,6 @@ sections:
         icon: https://www.reg.ru/favicon.ico
         url: https://www.reg.ru/user/account/
         id: 2_1348_regru
+pages:
+  - name: aqd
+    path: /test
