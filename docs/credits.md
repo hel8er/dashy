@@ -61,6 +61,13 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/hel8er">
+            <img src="https://avatars.githubusercontent.com/u/23619147?v=4" width="80;" alt="hel8er"/>
+            <br />
+            <sub><b>Alex Helber</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/kashif-se">
             <img src="https://avatars.githubusercontent.com/u/5568138?v=4" width="80;" alt="kashif-se"/>
             <br />
@@ -87,15 +94,15 @@
             <br />
             <sub><b>Jammo2k5</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/Cereal916">
             <img src="https://avatars.githubusercontent.com/u/7526937?v=4" width="80;" alt="Cereal916"/>
             <br />
             <sub><b>Kristian Brasel</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/UrekD">
             <img src="https://avatars.githubusercontent.com/u/38784343?v=4" width="80;" alt="UrekD"/>
@@ -115,13 +122,6 @@
             <img src="https://avatars.githubusercontent.com/u/1934515?v=4" width="80;" alt="remygrandin"/>
             <br />
             <sub><b>Remygrandin</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/hel8er">
-            <img src="https://avatars.githubusercontent.com/u/23619147?v=4" width="80;" alt="hel8er"/>
-            <br />
-            <sub><b>Alex Helber</b></sub>
         </a>
     </td>
     <td align="center">
