@@ -9,7 +9,7 @@ pageInfo:
 appConfig:
   theme: dracula
   layout: auto
-  iconSize: large
+  iconSize: small
   language: en
   auth:
     enableGuestAccess: true
@@ -92,3 +92,7 @@ sections:
         icon: https://ruvds.com/img/favicon.png?v=1
         url: https://ruvds.com/my/servers
         id: 1_1348_ruvds
+      - title: Reg.Ru
+        icon: https://www.reg.ru/favicon.ico
+        url: https://www.reg.ru/user/account/
+        id: 2_1348_regru
