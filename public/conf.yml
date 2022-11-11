@@ -71,7 +71,7 @@ sections:
       - title: Front Proxy
         icon: hl-nginxproxymanager
         url: https://px.front.iothinks.ru/
-        target: workspace
+        target: newtab
         statusCheck: true
         id: 1_1150_frontproxy
       - title: PiHole
@@ -83,7 +83,6 @@ sections:
         icon: hl-portainer
         url: https://194.87.238.36:9443/
         target: newtab
-        statusCheck: true
         id: 3_1150_portainerip
   - name: Hosting
     displayData:
