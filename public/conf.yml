@@ -104,6 +104,14 @@ sections:
         icon: https://www.reg.ru/favicon.ico
         url: https://www.reg.ru/user/account/
         id: 2_732_regru
+      - title: GitHub [hel8er]
+        icon: hl-github
+        url: https://github.com/hel8er
+        id: 3_732_githubheler
+      - title: Netlify
+        icon: hl-netlify
+        url: https://app.netlify.com/
+        id: 4_732_netlify
 pages:
   - name: aqd
     path: /test
