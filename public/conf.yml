@@ -93,7 +93,7 @@ sections:
       hideForGuests: true
     items:
       - title: TimeWeb VDS
-        icon: https://vds.timeweb.ru/assets/40bf245d/favicons/favicon-152.png
+        icon: https://vds.timeweb.ru/assets/77e70eda/favicons/favicon-32.png
         url: https://vds.timeweb.ru
         id: 0_732_timewebvds
       - title: RuVDS
