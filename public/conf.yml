@@ -1,11 +1,13 @@
 pageInfo:
-  title: Dashy
-  description: Welcome to your new dashboard!
+  title: IOThinks.ru
+  description: Services Dashboard
   navLinks:
-    - title: GitHub
-      path: https://github.com/Lissy93/dashy
+    - title: My GitHub
+      path: https://github.com/hel8er
+      target: newtab
     - title: Documentation
       path: https://dashy.to/docs
+      target: newtab
 appConfig:
   theme: one-dark
   layout: vertical
@@ -76,7 +78,7 @@ sections:
         url: https://pihole.front.iothinks.ru/admin/
         statusCheck: true
         id: 2_1150_pihole
-  - name: Net Management
+  - name: Hosting
     displayData:
       sortBy: default
       rows: 1
@@ -87,15 +89,15 @@ sections:
       - title: TimeWeb VDS
         icon: https://vds.timeweb.ru/assets/40bf245d/favicons/favicon-152.png
         url: https://vds.timeweb.ru
-        id: 0_1348_timewebvds
+        id: 0_732_timewebvds
       - title: RuVDS
         icon: https://ruvds.com/img/favicon.png?v=1
         url: https://ruvds.com/my/servers
-        id: 1_1348_ruvds
+        id: 1_732_ruvds
       - title: Reg.Ru
         icon: https://www.reg.ru/favicon.ico
         url: https://www.reg.ru/user/account/
-        id: 2_1348_regru
+        id: 2_732_regru
 pages:
   - name: aqd
     path: /test
