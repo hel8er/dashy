@@ -94,18 +94,23 @@ sections:
       collapsed: false
       hideForGuests: true
     items:
-      - title: Portainer MSK
+      - title: Portainer Front
         icon: hl-portainer
-        url: https://pt.msk.iothinks.ru/
+        url: https://pt.front.iothinks.ru/
         target: workspace
         statusCheck: true
-        id: 0_1150_portainermsk
-      - title: NPM msk
+        id: 0_1150_portainerfront
+      - title: Front Proxy
         icon: hl-nginxproxymanager
-        url: https://px.msk.iothinks.ru/
+        url: https://px.front.iothinks.ru/
         target: workspace
         statusCheck: true
-        id: 1_1150_npmmsk
+        id: 1_1150_frontproxy
+      - title: PiHole
+        icon: hl-pihole
+        url: https://pihole.front.iothinks.ru/admin/
+        statusCheck: true
+        id: 2_1150_pihole
   - name: Docs
     displayData:
       sortBy: default
