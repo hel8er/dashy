@@ -53,8 +53,7 @@ pageInfo:
       path: https://dashy.to/docs
       target: newtab
   footerText: ''
-  logo: >-
-    https://image.winudf.com/v2/image/Y29tLmRldmZvb2QuYWRtaW5faWNvbl8xNTIxMDcwNjY4XzA1MQ/icon.png?w=340&fakeurl=1
+  logo: ''
 sections:
   - name: iothinks.ru
     displayData:
@@ -115,5 +114,5 @@ sections:
         url: https://app.netlify.com/
         id: 4_732_netlify
 pages:
-  - name: aqd
-    path: /test
+  - name: Page
+    path: testpage.yml
