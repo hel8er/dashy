@@ -46,25 +46,25 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/hel8er">
+            <img src="https://avatars.githubusercontent.com/u/23619147?v=4" width="80;" alt="hel8er"/>
+            <br />
+            <sub><b>Alex Helber</b></sub>
+        </a>
+    </td></tr>
+<tr>
+    <td align="center">
         <a href="https://github.com/snyk-bot">
             <img src="https://avatars.githubusercontent.com/u/19733683?v=4" width="80;" alt="snyk-bot"/>
             <br />
             <sub><b>Snyk Bot</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/pinarruiz">
             <img src="https://avatars.githubusercontent.com/u/37040888?v=4" width="80;" alt="pinarruiz"/>
             <br />
             <sub><b>Alejandro Pinar Ruiz</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/hel8er">
-            <img src="https://avatars.githubusercontent.com/u/23619147?v=4" width="80;" alt="hel8er"/>
-            <br />
-            <sub><b>Alex Helber</b></sub>
         </a>
     </td>
     <td align="center">
