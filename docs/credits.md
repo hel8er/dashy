@@ -32,6 +32,13 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/hel8er">
+            <img src="https://avatars.githubusercontent.com/u/23619147?v=4" width="80;" alt="hel8er"/>
+            <br />
+            <sub><b>Alex Helber</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/EVOTk">
             <img src="https://avatars.githubusercontent.com/u/45015615?v=4" width="80;" alt="EVOTk"/>
             <br />
@@ -43,13 +50,6 @@
             <img src="https://avatars.githubusercontent.com/u/5369885?v=4" width="80;" alt="Ateroz"/>
             <br />
             <sub><b>Kenneth Church</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/hel8er">
-            <img src="https://avatars.githubusercontent.com/u/23619147?v=4" width="80;" alt="hel8er"/>
-            <br />
-            <sub><b>Alex Helber</b></sub>
         </a>
     </td></tr>
 <tr>
