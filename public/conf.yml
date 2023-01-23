@@ -95,7 +95,7 @@ sections:
     items:
       - title: TimeWeb VDS
         icon: https://vds.timeweb.ru/assets/40bf245d/favicons/favicon-152.png
-        url: https://vds.timeweb.ru
+        url: https://timeweb.cloud/my/
         id: 0_732_timewebvds
       - title: RuVDS
         icon: https://ruvds.com/img/favicon.png?v=1
